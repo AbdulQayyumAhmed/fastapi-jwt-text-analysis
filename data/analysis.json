@@ -1,0 +1,18 @@
+[
+    {
+        "user_id": 1,
+        "analysis_id": 1,
+        "text": "Hoaw are YOU!",
+        "word_count": 3,
+        "uppercase_count": 4,
+        "special_char_count": 1
+    },
+    {
+        "user_id": 1,
+        "analysis_id": 2,
+        "text": "I Love Paksit@n",
+        "word_count": 3,
+        "uppercase_count": 3,
+        "special_char_count": 1
+    }
+]
